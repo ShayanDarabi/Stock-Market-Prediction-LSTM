@@ -1,1 +1,1 @@
-# Stock-Market-Prediction---LSTM
+# Stock Market Prediction - LSTM
