@@ -35,6 +35,3 @@ LSTM networks are a type of RNN designed to overcome the limitations of traditio
    - LSTMs are designed to process sequential data, making them suitable for time series forecasting, natural language processing, speech recognition, and other tasks that involve sequential dependencies.
 
 For more details about LSTM architecture, I recommend this page: *[Understanding LSTM Networks](https://colah.github.io/posts/2015-08-Understanding-LSTMs/)*
-
-# LSTM Application in Stock Price Prediction
-
